@@ -1,0 +1,9 @@
+main:
+  - title: "个人简介"
+    url: "/#about-me"
+  - title: "科研项目"
+    url: "/#-projects"
+  - title: "代表论文"
+    url: "/#-publications"
+  - title: "发明专利"
+    url: "/#-patents"
