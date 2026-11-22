@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "梁雪 | 学术主页"
-description              : "梁雪，四川师范大学讲师，研究方向为自旋电子学、磁子学和微磁学。"
+description              : "研究方向为自旋电子学、磁子学和微磁学。"
 repository               : "lsnow123/lsnow123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "梁雪"
   avatar           : "images/lxue.png"
   bio              : "四川师范大学 · 讲师"
-  location         : ""
+  location         : "Sichuan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wbWOvg0AAAAJ&hl=zh-CN&oi=sra"
